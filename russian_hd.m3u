@@ -67,8 +67,9 @@ https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-name="Известия" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="Новости",Известия (1080p)
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-id="rentv-istoki" tvg-name="Истоки" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png" group-title="Общие",Истоки (1080p)
-https://istoki.tv/live/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="rentv-istoki" tvg-name="Истоки" tvg-logo="https://iptvx.one/picons/rentv-istoki.png" group-title="Общие",Истоки (720p)
+#EXTVLCOPT:http-user-agent=WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="https://i.imgur.com/K3PSHiT.png" group-title="Детские",Капитан Фантастика (1080p)
 http://stream.mcquack.net/144/index.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель (1080p)
