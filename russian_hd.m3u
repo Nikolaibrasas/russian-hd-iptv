@@ -41,11 +41,12 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="https://i.imgur.com/e3BFVgt.png" group-title="Природа",Дикая рыбалка HD (1080p)
 http://stream.mcquack.net/275/index.m3u8
+#EXTINF:-1 tvg-id="doktor" tvg-name="Доктор" tvg-logo="https://iptvx.one/picons/doktor.png" group-title="Познавательные",Доктор (1080p)
+https://stream8.cinerama.uz/1409/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом кино Премиум" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="Кино",Дом кино Премиум (1080p)
 http://stream.mcquack.net/108/index.m3u8
-#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные",Домашний (1080p)
-#EXTVLCOPT:http-user-agent=WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIYHD/variant.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-name="Домашний" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Стиль жизни",Домашний (1080p)
+http://stream.mcquack.net/227/index.m3u8
 #EXTINF:-1 tvg-id="don-24" tvg-name="Дон 24" tvg-logo="https://i.imgur.com/fW15la1.png" group-title="Новости",Дон 24 (1080p)
 https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-name="Дорама" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Кино",Дорама (1080p)
@@ -60,37 +61,37 @@ https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="Кино",Еврокино (1080p)
 http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" tvg-name="Живая природа" tvg-logo="https://i.imgur.com/9lHQPdN.png" group-title="Разное",Живая природа (1080p)
-http://stream.mcquack.net/225/index.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="Общие",Звезда (1080p)
-https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+http://stream.mcquack.net/83/index.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Общественные",Звезда (1080p)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" tvg-name="Звезда Плюс" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="Разное",Звезда Плюс (1080p)
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-name="Известия" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="Новости",Известия (1080p)
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-id="rentv-istoki" tvg-name="Истоки" tvg-logo="https://iptvx.one/picons/rentv-istoki.png" group-title="Общие",Истоки (720p)
-#EXTVLCOPT:http-user-agent=WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
+#EXTINF:-1 tvg-id="rentv-istoki" tvg-name="Истоки" tvg-logo="https://istoki.tv/local/templates/istoki_new/img/logo.png" group-title="Общие",Истоки (1080p)
+https://istoki.tv/live/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика" tvg-logo="https://i.imgur.com/K3PSHiT.png" group-title="Детские",Капитан Фантастика (1080p)
 http://stream.mcquack.net/144/index.m3u8
-#EXTINF:-1 tvg-id="karusel" tvg-name="Карусель" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель (1080p)
-#EXTVLCOPT:http-user-agent=WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSELHD/variant.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="https://i.imgur.com/dVjtth0.png" group-title="Комедии",Кинокомедия (1080p)
 http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="Кино и сериалы",Киномикс (1080p)
+https://stream8.cinerama.uz/1233/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" tvg-name="Кинопоказ SD" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="Кино",Кинопоказ SD (1080p)
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="https://i.imgur.com/s0UYT8T.png" group-title="Кино",Кинопремьера (1080p)
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="kinosvidanie" tvg-name="Киносвидание" tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="Кино",Киносвидание (1080p)
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="https://i.imgur.com/4BF5VeK.png" group-title="Кино",Киносемья (1080p)
 http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия" tvg-logo="https://ngrch.github.io/iptv/logos/kinoseria.png" group-title="Популярные",Киносерия (1080p)
+https://stream8.cinerama.uz/1235/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="https://i.imgur.com/mAcAAQF.png" group-title="Кино",Киноужас (1080p)
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="Кино",Кинохит (1080p)
 http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 tvg-id="komedijnoe" tvg-name="Комедийное SD" tvg-logo="https://i.imgur.com/cEKe8XC.png" group-title="Комедии",Комедийное SD (1080p)
 http://stream.mcquack.net/74/index.m3u8
-#EXTINF:-1 tvg-id="kongresstv" tvg-name="Конгресс ТВ" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="Общие",Конгресс ТВ (1080p)
-https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="krik-tv" tvg-name="Крик-ТВ" tvg-logo="https://i.imgur.com/rtuChZR.png" group-title="Новости",Крик-ТВ (1080p)
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" tvg-name="ЛДПР ТВ" tvg-logo="https://i.imgur.com/gCmCRfe.png" group-title="Общие",ЛДПР ТВ (1080p)
@@ -99,6 +100,8 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 tvg-id="maydan" tvg-name="Майдан" tvg-logo="https://i.imgur.com/C8CCjZK.png" group-title="Музыка",Майдан (720p)
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-name="Матч!" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч! (1080p)
+http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="match-boets" tvg-name="Матч! Боец" tvg-logo="https://i.imgur.com/DogOkA4.png" group-title="Спорт",Матч! Боец (1080p)
 http://stream.mcquack.net/112/index.m3u8
 #EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра" tvg-logo="https://iptvx.one/picons/match-igra.png" group-title="Спортивные",Матч! Игра (1080p)
@@ -123,16 +126,22 @@ http://stream.mcquack.net/369/index.m3u8
 http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино HD" tvg-logo="https://i.imgur.com/8RN3tQC.png" group-title="Кино",Мужское кино HD (1080p)
 http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 tvg-id="mult" tvg-name="Мульт" tvg-logo="https://ngrch.github.io/iptv/logos/mult.png" group-title="Популярные",Мульт (1080p)
+https://stream8.cinerama.uz/1246/index.m3u8
 #EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-logo="https://i.imgur.com/ah6VnFJ.png" group-title="Религия",Надежда (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-id="nauka" tvg-name="Наука" tvg-logo="https://iptvx.one/picons/nauka.png" group-title="Познавательные",Наука (1080p)
+https://stream8.cinerama.uz/1248/index.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше Мужское" tvg-logo="https://i.imgur.com/QRWKpmb.png" group-title="Кино",Наше Мужское (1080p)
 http://stream.mcquack.net/362/index.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="Кино и сериалы",Наше новое кино (1080p)
+https://stream8.cinerama.uz/1051/index.m3u8
 #EXTINF:-1 tvg-id="nashehd" tvg-name="Наше HD" tvg-logo="https://i.imgur.com/KO8dhi9.png" group-title="Кино/Сериалы",Наше HD (1080p)
 http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Общие",НТВ (1080p)
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-name="НТВ Неизвестная Россия" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="Разное",НТВ Неизвестная Россия (1080p)
-http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-id="ntm" tvg-name="НТМ" tvg-logo="https://i.imgur.com/AH50pGT.png" group-title="Общие",НТМ (720p)
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="osetia-iryston" tvg-name="Осетия-Ирыстон" tvg-logo="https://i.imgur.com/N0Zn4zU.png" group-title="Общие",Осетия-Ирыстон (1080p)
@@ -143,9 +152,6 @@ http://stream.mcquack.net/214/index.m3u8
 http://stream.mcquack.net/194/index.m3u8
 #EXTINF:-1 tvg-id="patriot" tvg-name="Патриот" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" group-title="Кино",Патриот (720p)
 https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общественные",Первый канал (1080p)
-#EXTVLCOPT:http-user-agent=WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVHD/variant.m3u8
 #EXTINF:-1 tvg-id="pervy-krymsky" tvg-name="Первый крымский" tvg-logo="https://i.imgur.com/i6hg7QG.png" group-title="Общие",Первый крымский (720p)
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-id="pervy-yaroslavsky" tvg-name="Первый Ярославский" tvg-logo="https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg" group-title="Общие",Первый Ярославский (1080p)
@@ -168,9 +174,6 @@ https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="Музыка",Радио Шансон (720p)
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Общественные",Рен ТВ (1080p)
-#EXTVLCOPT:http-user-agent=WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8
 #EXTINF:-1 tvg-id="rzhd-tv" tvg-name="РЖД ТВ" tvg-logo="https://i.imgur.com/lf1r9L6.png" group-title="Разное",РЖД ТВ (1080p)
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="Россия 1" tvg-logo="https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png" group-title="Общие",Россия 1 (1080p)
@@ -198,7 +201,7 @@ https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd
 #EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Семейные",СТС (1080p)
 http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="Суббота!" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="Развлечения",Суббота! (1080p)
-http://stream.mcquack.net/269/index.m3u8
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
 #EXTINF:-1 tvg-id="sportivny" tvg-name="ТВ Спорт" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="Спорт",ТВ Спорт (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="https://i.imgur.com/JLAvq8O.png" group-title="Развлечения",ТВ3 (1080p)
@@ -211,9 +214,8 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tnv" tvg-name="ТНВ" tvg-logo="https://i.imgur.com/58u9TQT.png" group-title="Разное",ТНВ (720p)
 https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ (1080p)
-#EXTVLCOPT:http-user-agent=WINK/1.80.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/variant.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Развлечения",ТНТ (1080p)
+http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-name="ТНТ-Music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="Музыкальные",ТНТ-Music (1080p)
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4 (1080p)
@@ -246,8 +248,8 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1 tvg-id="Balabol.ru" tvg-name="Balabol" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="Сериалы",Balabol (1080p)
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood" tvg-logo="https://i.imgur.com/YLQRnXt.png" group-title="Кино",Bollywood (1080p)
-http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="Кино и сериалы",Bollywood (720p)
+https://stream8.cinerama.uz/1444/index.m3u8
 #EXTINF:-1 tvg-id="bolt" tvg-name="Bolt" tvg-logo="https://iptvx.one/picons/bolt.png" group-title="Кино и сериалы",Bolt (1080p)
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" tvg-name="Bridge TV Deluxe" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Музыка",Bridge TV Deluxe (1080p)
@@ -262,6 +264,8 @@ https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="classic-music" tvg-name="Classic Music" tvg-logo="https://i.imgur.com/TpXs1qA.png" group-title="Музыка",Classic Music (1080p)
 http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 tvg-id="da-vinci" tvg-name="Da Vinci Learning" tvg-logo="https://iptvx.one/picons/da-vinci.png" group-title="Познавательные",Da Vinci Learning (1080p)
+https://stream8.cinerama.uz/1231/index.m3u8
 #EXTINF:-1 tvg-id="Dagestan.ru" tvg-name="Dagestan" tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="Разное",Dagestan (1080p)
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Развлечения",Discovery Channel (1080p)
@@ -294,6 +298,8 @@ http://176.118.197.101/KinoTvHD/playlist.m3u8
 http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 #EXTINF:-1 tvg-id="magnat" tvg-name="Magnat" tvg-logo="https://i.imgur.com/r485aZL.png" group-title="Магазин",Magnat (1080p)
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+#EXTINF:-1 tvg-id="MatchUltra.ru" tvg-name="Match! Ultra" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Спорт",Match! Ultra (1080p)
+http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 tvg-id="m1global" tvg-name="MMA-TV" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Спорт",MMA-TV (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="Moymir.ru" tvg-name="Moy mir" tvg-logo="https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png" group-title="Магазин",Moy mir (720p)
@@ -310,8 +316,6 @@ http://stream.mcquack.net/116/index.m3u8
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 tvg-id="Nevskiy.ru" tvg-name="Nevskiy" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title="Сериалы",Nevskiy (1080p)
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
-#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/w8iE8dV.png" group-title="Детские",Nickelodeon (1080p)
-http://stream.mcquack.net/443/index.m3u8
 #EXTINF:-1 tvg-id="NikaTV.ru" tvg-name="Nika TV" tvg-logo="https://i.imgur.com/dccsFAu.png" group-title="Общие",Nika TV (720p)
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NovorossiyaTV.ru" tvg-name="Novorossiya TV" tvg-logo="https://i.imgur.com/ijmf0bV.png" group-title="Новости",Novorossiya TV (1080p)
@@ -346,8 +350,6 @@ https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 http://stream.mcquack.net/164/index.m3u8
 #EXTINF:-1 tvg-id="ru-tv" tvg-name="RU.TV" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Музыка",RU.TV (1080p)
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
-#EXTINF:-1 tvg-id="russian-extreme-uhd" tvg-name="Russian Extreme Ultra HD" tvg-logo="https://i.imgur.com/Dk8VbAc.png" group-title="Спорт",Russian Extreme Ultra HD (1440p)
-http://46.53.200.153:7777/play/test_krask1/index.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" tvg-name="Russian MusicBox" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" group-title="Музыка",Russian MusicBox (1080p)
 http://stream.mcquack.net/319/index.m3u8
 #EXTINF:-1 tvg-id="S1.ru" tvg-name="S1" tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="Разное",S1 (1080p)
@@ -368,6 +370,8 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:-1 tvg-id="star-family" tvg-name="Star Family Россия" tvg-logo="https://i.imgur.com/eGuGHnZ.png" group-title="Кино",Star Family Россия (1080p)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="start-air" tvg-name="Start Air" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" group-title="Кино",Start Air (1080p)
+http://176.118.197.101/START_AIR/index.m3u8
 #EXTINF:-1 tvg-id="SvoyoTV.ru" tvg-name="Svoyo TV" tvg-logo="https://i.imgur.com/3cP2fmX.png" group-title="Разное",Svoyo TV (1080p)
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TelekanalKrasnodar.ru" tvg-name="Telekanal Krasnodar" tvg-logo="https://i.imgur.com/YVtutzp.png" group-title="Общие",Telekanal Krasnodar (1080p)
@@ -378,6 +382,8 @@ https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Стиль жизни",TLC (1080p)
 http://stream.mcquack.net/168/index.m3u8
+#EXTINF:-1 tvg-id="TNTInternational.ru" tvg-name="TNT International" tvg-logo="https://i.imgur.com/l0RGbRI.png" group-title="Развлечения",TNT International (1080p)
+http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" tvg-name="Travel+Adventure" tvg-logo="https://i.imgur.com/AlpdXC4.png" group-title="Путешествия",Travel+Adventure (1080p)
 http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 tvg-id="TsargradTV.ru" tvg-name="Tsargrad TV" tvg-logo="https://i.imgur.com/34RINpb.png" group-title="Религия",Tsargrad TV (1080p)
@@ -394,6 +400,8 @@ https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" tvg-name="viju Explore" tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="Документальные",viju Explore (1080p)
 http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="viju History" tvg-logo="https://ngrch.github.io/iptv/logos/viju_history.png" group-title="Популярные",viju History (1080p)
+https://stream8.cinerama.uz/1046/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="viju TV1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="Кино",viju TV1000 (1080p)
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="viju TV1000 Новелла" tvg-logo="https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png" group-title="Кино",viju TV1000 Новелла (1080p)
@@ -402,8 +410,6 @@ http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="viju TV1000 Action" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="Кино",viju TV1000 Action (1080p)
 http://stream.mcquack.net/100/index.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="viju TV1000 romantica" tvg-logo="https://rnnxdki1nv.a.trbcdn.net/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/flo59mr6lh1jf68g3021urgwtd5k" group-title="Сериалы",viju TV1000 romantica (1080p)
-http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="viju+ Comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="Комедии",viju+ Comedy (1080p)
 http://stream.mcquack.net/201/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="viju+ Megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="Кино",viju+ Megahit (1080p)
