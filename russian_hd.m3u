@@ -402,8 +402,16 @@ http://stream.mcquack.net/492/index.m3u8
 http://46.53.200.153:7777/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="https://i.imgur.com/EOue13e.png" group-title="Охота",Дикая охота HD (1080p)
 http://stream.mcquack.net/274/index.m3u8
+#EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="Охота",Дикий (SD)
+http://195.64.140.147:10139/139
+#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="Охота и рыбалка" tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png" group-title="Охота",Охота и рыбалка (576p)
+http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Охотник и рыболов" tvg-logo="https://i.imgur.com/Bj1jI7F.png" group-title="Охота",Охотник и рыболов (1080p)
 http://stream.mcquack.net/194/index.m3u8
+#EXTINF:-1 tvg-id="trofey" tvg-name="Трофей" tvg-logo="https://iptvx.one/picons/trofey.png" group-title="Охота",Трофей (1080p)
+http://stream.mcquack.net/357/index.m3u8
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-name="Диалоги о рыбалке" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="Рыбалка",Диалоги о рыбалке (1080p)
+http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="https://i.imgur.com/e3BFVgt.png" group-title="Рыбалка",Дикая рыбалка HD (1080p)
 http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="nadezhda" tvg-name="Надежда" tvg-logo="https://i.imgur.com/ah6VnFJ.png" group-title="Религиозные",Надежда (720p)
