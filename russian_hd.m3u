@@ -1,4 +1,12 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" x-tvg-url="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-id="0x0-fireplace-hd" tvg-name="Fireplace 4K" tvg-logo="" group-title="4K",Fireplace 4K (2160p)
+https://pb-rhq7yj8tne4rm.akamaized.net/Fireplace_4K_SONO20.m3u8
+#EXTINF:-1 tvg-id="insight-ultra-hd" tvg-name="Insight UHD" tvg-logo="https://iptvx.one/picons/insight-ultra-hd.png" group-title="4K",Insight UHD (2160p)
+http://stream.mcquack.net/361/index.m3u8
+#EXTINF:-1 tvg-id="love-nature-4k" tvg-name="Love Nature 4K" tvg-logo="https://iptvx.one/picons/love-nature-4k.png" group-title="4K",Love Nature 4K (2160p)
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-id="underwater-4k" tvg-name="Underwater 4K" tvg-logo="" group-title="4K",Underwater 4K (2160p)
+https://pb-vt93jy06rfty1.akamaized.net/SONOS45.m3u8
 #EXTINF:-1 tvg-id="360-news" tvg-name="360° Новости" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="Новости",360° Новости (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" tvg-name="Вместе-РФ" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="Новости",Вместе-РФ (1080p)
