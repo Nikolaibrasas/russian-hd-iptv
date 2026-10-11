@@ -53,8 +53,8 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-name="Мир" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="Федеральные",Мир (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Федеральные",НТВ (1080p)
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Федеральные" catchup="default" catchup-days="1" catchup-source="http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-${offset}.m3u8",НТВ (1080p)
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-14400.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-name="ОТР" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Федеральные",ОТР (576p)
 https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-name="Первый канал" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Федеральные",Первый канал (576p)
